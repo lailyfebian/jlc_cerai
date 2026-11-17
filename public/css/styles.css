@@ -3149,7 +3149,11 @@ p {
         padding: 24px;
     }
 
-    .service-card p, li{
+    .service-card p{
+        font-size: 13px !important;
+    }
+
+    .service-card ul li{
         font-size: 13px !important;
     }
 
