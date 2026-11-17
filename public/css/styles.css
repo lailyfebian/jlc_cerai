@@ -1489,29 +1489,6 @@ p {
     margin-bottom: 18px;
 }
 
-/* =====================================
-   TABLET
-===================================== */
-
-@media (max-width: 1199px) {
-
-    .jlc-about-story {
-        padding: 75px 0;
-    }
-
-    .jlc-about-story-wrapper {
-        gap: 50px;
-    }
-
-    .jlc-about-story-title {
-        font-size: 44px;
-    }
-
-    .jlc-about-story-image {
-        height: 460px;
-    }
-
-}
 
 /* =====================================
    MOBILE / TABLET
@@ -1563,8 +1540,8 @@ p {
         gap: 30px;
     }
 
-    .jlc-about-story-title {
-        font-size: 24px;
+    .jlc-about-story-content .jlc-about-story-title {
+        font-size: 24px !important;
         line-height: 1.25;
     }
 
@@ -1690,13 +1667,13 @@ p {
     width: 140px;
 }
 
-.cta-content {
+.cta-content-title {
     position: relative;
     z-index: 2;
 }
 
-.cta-content h4 {
-    color: #D6A24A;
+.cta-content-title h4 {
+    color: #fff !important;
     font-size: 32px;
     font-family: 'Georgia', serif !important;
     font-weight: 700;
@@ -1748,7 +1725,7 @@ p {
         margin-bottom: 35px;
     }
 
-    .cta-content h4 {
+    .cta-content-title h4 {
         font-size: 30px;
     }
 
@@ -1776,8 +1753,8 @@ p {
         width: 130px;
     }
 
-    .cta-content h4 {
-        font-size: 24px;
+    .cta-content-title h4 {
+        font-size: 18px !important;
     }
 
     .cta-button {
