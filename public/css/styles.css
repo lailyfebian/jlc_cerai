@@ -1042,10 +1042,10 @@ p {
         padding: 210px 0 150px;
     }
 
-    .hero-content h1 {
+   /* .hero-content h1 {
         font-size: 62px !important;
         max-width: 720px;
-    }
+    }*/
 
     /*.hero-content p {
         max-width: 620px;
@@ -3187,7 +3187,7 @@ p {
     }
 
     .section-description{
-        font-size: 13px;
+        font-size: 13px !important;
     }
 
     .consult-btn{
