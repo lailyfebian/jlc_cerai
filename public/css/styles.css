@@ -662,9 +662,9 @@ p {
         pointer-events: none;
     }
 
-    .hero-content h1 {
+    /*.hero-content h1 {
         font-size: 46px !important;
-    }
+    }*/
 
     .hero-content p {
         font-size: 15px;
@@ -768,7 +768,7 @@ p {
     }
 
     .hero-content h1 {
-        font-size: 24px;
+        font-size: 24px !important;
         line-height: 1.15;
         letter-spacing: -0.5px;
 
@@ -1285,9 +1285,9 @@ p {
 }
 
 @media (max-width:390px) {
-    .hero-content h1 {
+    /*.hero-content h1 {
         font-size: 32px !important;
-    }
+    }*/
 
     .hero-badge {
         font-size: 10px;
