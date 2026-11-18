@@ -1275,7 +1275,7 @@ p {
     }
 
     .feature-item .feature-subtitle {
-        font-size: 20px;
+        font-size: 20px !important;
         font-weight: 900;
     }
 
