@@ -959,7 +959,7 @@ p {
 
 .feature-item .feature-subtitle {
     font-family: 'Cormorant Garamond', serif !important;
-    font-size: 24px;
+    font-size: 24px !important;
     font-weight: 900;
     margin-bottom: 10px;
     color: var(--primary);
@@ -1916,7 +1916,7 @@ p {
 
 .why-content .why-title {
     font-family: "Cormorant Garamond", serif !important;
-    font-size: 24px;
+    font-size: 24px !important;
     font-weight: 900;
     line-height: 1.2;
     color: #132645;
@@ -2083,7 +2083,7 @@ p {
     }
 
     .why-content .why-title {
-        font-size: 20px;
+        font-size: 20px !important;
         font-weight: 900;
         margin-bottom: 12px;
     }
@@ -2418,7 +2418,7 @@ p {
     }
 
     .jlc-female-feature-title {
-        font-size: 20px;
+        font-size: 20px !important;
         font-weight: 900;
         margin-bottom: 7px;
     }
@@ -3377,7 +3377,7 @@ p {
 .jlc-advantage-heading {
     position: relative;
     font-family: 'Cormorant Garamond', serif;
-    font-size: 24px;
+    font-size: 24px !important;
     font-weight: 900;
     line-height: 1.35;
     color: #14213D;
@@ -3500,7 +3500,7 @@ p {
     }
 
     .jlc-advantage-heading {
-        font-size: 20px;
+        font-size: 20px !important;
         font-weight: 900;
     }
 
@@ -5419,7 +5419,7 @@ p {
     margin: 3px 0 10px;
     color: #102544;
     font-family: 'Cormorant Garamond', serif;
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 900;
     line-height: 1.3;
 }
@@ -5547,7 +5547,7 @@ p {
 
     .jlc-advocate-services__item-content h3 {
         margin-top: 0;
-        font-size: 18px;
+        font-size: 20px;
         font-weight: 900;
         line-height: 1.35;
     }
